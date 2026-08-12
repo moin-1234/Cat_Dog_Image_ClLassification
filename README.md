@@ -98,4 +98,4 @@ MIT License — feel free to use this for learning purposes.
 ## 🙋 About
 
 Built by Moinuddin Ghare as a portfolio/learning project during an AI/Python internship.
-Connect on [LinkedIn — PLACEHOLDER]
+Connect on https://www.linkedin.com/in/gulammoinuddin-ghare-3822153b7/
