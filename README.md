@@ -10,7 +10,7 @@ This project started as a from-scratch CNN and evolved into a transfer-learning 
 
 ## 🎯 Results
 
-| Metric | Score |
+| Metric | Score | 
 |---|---|
 | Accuracy | 99.57% |
 | Precision | 99.18% |
